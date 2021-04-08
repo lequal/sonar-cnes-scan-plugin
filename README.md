@@ -15,6 +15,13 @@ This plugin is free software; you can redistribute it and/or modify it under the
 - Run analysis from web interface
 - Export data as OpenXML reports
 
+### Permissions
+To access the analysis web form, the users needs the following **global** permissions:
+
+- create a project
+- administer Quality Gates
+- run a scan
+
 ### Configuration
 - Sign-in as an administrator
 - Go to Administration > Sonar CNES Scan plugin
